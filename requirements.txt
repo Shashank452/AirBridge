@@ -1,0 +1,13 @@
+# AirBridge — Universal Remote File Bridge
+
+# Sender Dependencies (Required on whichever machine acts as the Sender):
+fastapi>=0.100.0
+uvicorn>=0.20.0
+jinja2>=3.0.0
+certifi>=2022.12.7
+
+# Testing Dependencies (Optional, for running tests and CI):
+pytest>=7.0.0
+
+# Receiver Dependencies (Ubuntu terminal / Windows):
+# Zero external dependencies! Uses Python 3 standard library only.

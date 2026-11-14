@@ -1,0 +1,1 @@
+"""ShareIt Sender package."""

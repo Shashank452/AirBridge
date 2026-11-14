@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Binaries and local tools
+bin/
+*.exe
+
+# Temporary files and archives
+folder.tar.gz
+*.tar.gz
+*.zip
+
+# Pytest / Testing caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS specific
+.DS_Store
+Thumbs.db
